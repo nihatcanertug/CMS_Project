@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entities\Concrete\Product.cs~RF647c3e4.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="5.0.2" />
+  </ItemGroup>
+
+</Project>
