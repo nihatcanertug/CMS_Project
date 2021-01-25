@@ -1,6 +1,6 @@
 
 
-Documantation
+
 Documantation
 1. Add an empty solution named YMS5177_CMS.
 2. Under Solution, a project named YMS5177_CMS.Entity is added in Class Library (.Net Core) project type.
